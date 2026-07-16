@@ -1,16 +1,18 @@
-## Hi there 👋
+# Hi, I'm Farheen 👋
 
-<!--
-**FarheenJadoon/FarheenJadoon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Software Engineering student focused on machine learning and data-driven systems.
 
-Here are some ideas to get you started:
+- 🎓 Software Engineering student, ranked top 10% of my class
+- 🔍 Currently working on data cleaning and customer churn analysis
+- 🤖 Building projects in ML, recommender systems, and data pipelines
+- 📈 Always learning: exploring new tools and techniques in ML engineering
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Tech & Tools
+Python · Jupyter Notebook · Data Analysis · Machine Learning
+
+## 📌 Featured Projects
+- **Movie Recommendation System**: content-based recommender using cosine similarity
+
+## 📫 Connect
+Open to opportunities and collaborations in ML and software engineering. Feel free to reach out.
+email: farheenjadoon07@gmail.com
