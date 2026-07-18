@@ -1,6 +1,8 @@
-# 💫 About Me:
-🔭 I'm currently working on: data cleaning and customer churn analysis, alongside personal ML projects<br>👯 I'm looking to collaborate on: Machine Learning and data science projects<br>🤝 I'm looking for help with: advanced machine learning techniques and model deployment<br>🌱 I'm currently learning: machine learning engineering and cloud computing<br>💬 Ask me about: Python, data analysis, and recommender systems
+# Farheen Jadoon
 
+Software Engineering student working across ML, data pipelines, and applied analysis. Comfortable moving between churn modeling, recommender systems, and the messier parts of data cleaning that most people skip. Python is home base; the rest gets learned as the project demands it. This profile is a working log.
+
+Reach out if something here overlaps with what you're building.
 
 ## 🌐 Socials:
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:farheenjadoon07@gmail.com) 
